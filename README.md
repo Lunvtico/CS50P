@@ -1,6 +1,6 @@
 # CS50 Programming Language Python (CS50P) Portfolio
 
-Welcome to my CS50P repository! This repository contains my solutions for the Problem Sets and Final Project from Harvard's CS50 Programming Language Python course. Each folder within this repository corresponds to a specific Problem Set or project.
+This repository contains my solutions for the Problem Sets from Harvard's CS50 Programming with Python course. The Final Project is currently under development and will be added once completed. Each folder within this repository corresponds to a specific Problem Set or the upcoming Final Project.
 
 ## Course Overview
 
